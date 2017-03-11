@@ -1,3 +1,5 @@
+# Let's Do It: World Cleanup Day! #
+
 ## Install steps
 
 1. Install bower plugins :  `bower install`
