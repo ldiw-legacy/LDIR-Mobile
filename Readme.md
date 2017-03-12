@@ -2,6 +2,8 @@
 
 ![World Cleanup Day](https://s3.eu-central-1.amazonaws.com/lets-do-it-world/letsdoitworld-logo.jpg)
 
+[![Code Climate](https://lima.codeclimate.com/github/letsdoitworld/World-Cleanup-Day-Mobile-App/badges/gpa.svg)](https://lima.codeclimate.com/github/letsdoitworld/World-Cleanup-Day-Mobile-App)
+
 ## Install steps
 
 1. Install bower plugins :  `bower install`
