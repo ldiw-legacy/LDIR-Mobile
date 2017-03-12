@@ -2,6 +2,7 @@
 
 ![World Cleanup Day](https://s3.eu-central-1.amazonaws.com/lets-do-it-world/letsdoitworld-logo.jpg)
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c41ee20872534ae4997ebfe24793429a)](https://www.codacy.com/app/krishaamer/World-Cleanup-Day-Mobile-App?utm_source=github.com&utm_medium=referral&utm_content=letsdoitworld/World-Cleanup-Day-Mobile-App&utm_campaign=badger)
 [![Code Climate](https://lima.codeclimate.com/github/letsdoitworld/World-Cleanup-Day-Mobile-App/badges/gpa.svg)](https://lima.codeclimate.com/github/letsdoitworld/World-Cleanup-Day-Mobile-App)
 [![CodeFactor](https://www.codefactor.io/repository/github/letsdoitworld/world-cleanup-day-mobile-app/badge)](https://www.codefactor.io/repository/github/letsdoitworld/world-cleanup-day-mobile-app)
 
