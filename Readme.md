@@ -1,5 +1,7 @@
 # Let's Do It: World Cleanup Day! #
 
+![World Cleanup Day](https://s3.eu-central-1.amazonaws.com/lets-do-it-world/letsdoitworld-logo.jpg)
+
 ## Install steps
 
 1. Install bower plugins :  `bower install`
