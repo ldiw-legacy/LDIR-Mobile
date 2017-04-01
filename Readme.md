@@ -1,5 +1,5 @@
 # Let's Do It: World Cleanup Day! #
-Already over 16M trash heroes have cleaned up more than 500 000 tonnes of trash in 100+ countries with Let’s Do It World, saving lives, improving health & reducing costs. We are now building a World Cleanup mapping app and trash-tech platform to 10x the movement & inspire the next 100s of Millions join in the World Cleanup day on 8th of September 2018.
+Already over 16M trash heroes have cleaned up more than 500 000 tonnes of trash in 100+ countries with Let’s Do It World, saving lives, improving health & reducing costs. We are now building a World Cleanup mapping app and trash-tech platform to 10x the movement & inspire the next 100s of Millions join in the World Cleanup day on 15th of September 2018.
 
 ![World Cleanup Day](https://www.letsdoitworld.org/wp-content/uploads/2016/01/hip_old_man_ldiw2016_fb-600x222.jpg)
 
