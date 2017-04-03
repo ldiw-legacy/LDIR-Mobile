@@ -38,7 +38,7 @@ Collaborators may opt to elevate significant or controversial modifications to t
 
 For the current list of Collaborators, see the project [README.md](https://github.com/letsdoitworld/World-Cleanup-Day-Mobile-App/blob/master/Readme.md).
 
-A guide for Collaborators is maintained in [COLLABORATOR_GUIDE.md](https://github.com/letsdoitworld/World-Cleanup-Day-Mobile-App/blob/master/CONTRIBUTING.md).
+A guide for Collaborators is maintained in [CONTRIBUTING.md](https://github.com/letsdoitworld/World-Cleanup-Day-Mobile-App/blob/master/CONTRIBUTING.md).
 
 ### Collaborator Activities
 
