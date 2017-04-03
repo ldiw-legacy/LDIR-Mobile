@@ -1,4 +1,4 @@
-# Contributing to LDIR
+# Contributing to World Cleanup Day Mobile App
 
 ## Code of Conduct
 
@@ -16,14 +16,14 @@
 ## Issue Contributions
 
 When opening new issues or commenting on existing issues on this repository please make sure discussions are related to concrete technical issues with the
-LDIR software.
+World Cleanup software.
 
 Discussion of non-technical topics including subjects like intellectual property, trademark, and high level project questions should sent to
-[LDIR Steering Committee (TSC)]() instead.
+[World Cleanup Steering Committee (TSC)]() instead.
 
 ## Code Contributions
 
-The LDIR project has an open governance model and welcomes new contributors. Individuals making significant and valuable contributions are made
+The WOrld Cleanup project has an open governance model and welcomes new contributors. Individuals making significant and valuable contributions are made
 _Collaborators_ and given commit-access to the project. See the [GOVERNANCE.md](./GOVERNANCE.md) document for more information about how this
 works.
 
@@ -172,7 +172,7 @@ Note that multiple commits often get squashed when they are landed (see the note
 
 ### Step 8: Landing
 
-In order to land, a Pull Request needs to be reviewed and [approved]() by at least one LDIR Collaborator and pass a
+In order to land, a Pull Request needs to be reviewed and [approved]() by at least one World Cleanup Collaborator and pass a
 [CI (Continuous Integration) test run](#ci-testing).
 After that, as long as there are no objections from a Collaborator, the Pull Request can be merged. If you find your Pull Request waiting longer than you expect, see the [notes about the waiting time](#waiting-until-the-pull-request-gets-landed).
 
@@ -197,7 +197,7 @@ After you push new changes to your branch, you need to get approval for these ne
 
 ### CI Testing
 
-Every Pull Request needs to be tested to make sure that it works on the platforms that LDIR supports. This is done by running the code through the CI system.
+Every Pull Request needs to be tested to make sure that it works on the platforms that World Cleanuo supports. This is done by running the code through the CI system.
 
 Only a Collaborator can start a CI run. Usually one of them will do it for you as approvals for the Pull Request come in.
 If not, you can ask a Collaborator to start a CI run.
@@ -206,7 +206,7 @@ If not, you can ask a Collaborator to start a CI run.
 
 A Pull Request needs to stay open for at least 48 hours (72 hours on a weekend) from when it is submitted, even after it gets approved and
 passes the CI. This is to make sure that everyone has a chance to weigh in. If the changes are trivial, collaborators may decide it
-doesn't need to wait. A Pull Request may well take longer to be merged in. All these precautions are important because LDIR is widely used, so don't be discouraged!
+doesn't need to wait. A Pull Request may well take longer to be merged in. All these precautions are important because World Cleanup is widely used, so don't be discouraged!
 
 ## Developer's Certificate of Origin 1.1
 
