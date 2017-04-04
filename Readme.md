@@ -6,6 +6,10 @@ Already over 16M trash heroes have cleaned up more than 500 000 tonnes of trash 
 
 ![World Cleanup Day](https://www.letsdoitworld.org/wp-content/uploads/2016/01/hip_old_man_ldiw2016_fb-600x222.jpg)
 
+## Find how you can contribute
+see the [CONTRIBUTING.md](https://github.com/letsdoitworld/World-Cleanup-Day-Mobile-App/blob/master/CONTRIBUTING.md)
+
+
 [![Code Climate](https://lima.codeclimate.com/github/letsdoitworld/World-Cleanup-Day-Mobile-App/badges/gpa.svg)](https://lima.codeclimate.com/github/letsdoitworld/World-Cleanup-Day-Mobile-App)
 [![CodeFactor](https://www.codefactor.io/repository/github/letsdoitworld/world-cleanup-day-mobile-app/badge)](https://www.codefactor.io/repository/github/letsdoitworld/world-cleanup-day-mobile-app)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/c41ee20872534ae4997ebfe24793429a)](https://www.codacy.com/app/krishaamer/World-Cleanup-Day-Mobile-App?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=letsdoitworld/World-Cleanup-Day-Mobile-App&amp;utm_campaign=Badge_Grade)
