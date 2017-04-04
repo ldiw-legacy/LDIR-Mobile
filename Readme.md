@@ -30,10 +30,6 @@ see the [CONTRIBUTING.md](https://github.com/letsdoitworld/World-Cleanup-Day-Mob
 To run the app in the browser : `ionic serve`
 
 
-## User Manual
-
-[Here](https://docs.google.com/document/d/1JalrzTIXh64KuRByPnxv362upNtSUxgByR20kovoHEM/edit?usp=sharing) you can access the user manual.
-
 ## License
 
 [GPL-3.0 license](https://opensource.org/licenses/GPL-3.0)
