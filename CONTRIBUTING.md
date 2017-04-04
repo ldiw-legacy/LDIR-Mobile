@@ -16,24 +16,24 @@
 ## How you can contribute? 
 Do you like to design?
 
-•	Create art for social media banners to promote the project
+* Create art for social media banners to promote the project
 
 Do you like to write?
 
-•	Write and improve the project’s documentation
-•	Write social media posts about the project
-•	Proofread files 
-•	Write a translations
+* Write and improve the project’s documentation
+* Write social media posts about the project
+* Proofread files 
+* Write a translations
 
 Do you like organizing?
 
-•	Link to duplicate issues, and suggest new issue labels, to keep things organized
-•	Ask clarifying questions on recently opened issues to move the discussion forward
+* Link to duplicate issues, and suggest new issue labels, to keep things organized
+* Ask clarifying questions on recently opened issues to move the discussion forward
 
 Do you like to code?
 
-•	Find an open issue to tackle
-•	Improve tooling and testing
+* Find an open issue to tackle
+* Improve tooling and testing
 
 ## Issue Contributions
 
