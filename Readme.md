@@ -7,8 +7,8 @@ Already over 16M trash heroes have cleaned up more than 500 000 tonnes of trash 
 
 ## Watch the App video
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YnPvOVzbQpA
-" target="_blank"><img src="http://img.youtube.com/vi/YnPvOVzbQpA/0.jpg" 
+<a href="https://www.youtube.com/watch?feature=player_embedded&v=YnPvOVzbQpA
+" target="_blank"><img src="https://s3.eu-central-1.amazonaws.com/lets-do-it-world/world-cleanup-day-app-video.png" 
 alt="Let's Do It: World Cleanup Day!" width="100%" border="0" /></a>
 
 ## Find how you can contribute
