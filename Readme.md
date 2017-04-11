@@ -1,15 +1,18 @@
 # Let's Do It: World Cleanup Day! #
 
-Thank you for considering contributing to World Cleanup Day Mobile App!
-
 Already over 16M trash heroes have cleaned up more than 500 000 tonnes of trash in 100+ countries with Let’s Do It World, saving lives, improving health & reducing costs. We are now building a World Cleanup mapping app and trash-tech platform to 10x the movement & inspire the next 100s of Millions join in the World Cleanup day on 15th of September 2018.
 
 ![World Cleanup Day](https://www.letsdoitworld.org/wp-content/uploads/2017/04/header.png)
 ![World Cleanup Day](https://www.letsdoitworld.org/wp-content/uploads/2017/04/content.png)
 
-## Find how you can contribute
-see the [CONTRIBUTING.md](https://github.com/letsdoitworld/World-Cleanup-Day-Mobile-App/blob/master/CONTRIBUTING.md)
+## Watch the App video
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YnPvOVzbQpA
+" target="_blank"><img src="http://img.youtube.com/vi/YnPvOVzbQpA/0.jpg" 
+alt="Let's Do It: World Cleanup Day!" width="100%" border="0" /></a>
+
+## Find how you can contribute
+Thank you for considering contributing to World Cleanup Day Mobile App! See the [CONTRIBUTING.md](https://github.com/letsdoitworld/World-Cleanup-Day-Mobile-App/blob/master/CONTRIBUTING.md)
 
 [![Code Climate](https://lima.codeclimate.com/github/letsdoitworld/World-Cleanup-Day-Mobile-App/badges/gpa.svg)](https://lima.codeclimate.com/github/letsdoitworld/World-Cleanup-Day-Mobile-App)
 [![CodeFactor](https://www.codefactor.io/repository/github/letsdoitworld/world-cleanup-day-mobile-app/badge)](https://www.codefactor.io/repository/github/letsdoitworld/world-cleanup-day-mobile-app)
