@@ -18,6 +18,7 @@ alt="Let's Do It: World Cleanup Day!" width="100%" border="0" /></a>
 ## Find how you can contribute 🔨
 Thank you for considering contributing to World Cleanup Day Mobile App! See the [CONTRIBUTING.md](https://github.com/letsdoitworld/World-Cleanup-Day-Mobile-App/blob/master/CONTRIBUTING.md)
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c41ee20872534ae4997ebfe24793429a)](https://www.codacy.com/app/krishaamer/World-Cleanup-Day-Mobile-App?utm_source=github.com&utm_medium=referral&utm_content=letsdoitworld/World-Cleanup-Day-Mobile-App&utm_campaign=badger)
 [![Code Climate](https://lima.codeclimate.com/github/letsdoitworld/World-Cleanup-Day-Mobile-App/badges/gpa.svg)](https://lima.codeclimate.com/github/letsdoitworld/World-Cleanup-Day-Mobile-App)
 [![CodeFactor](https://www.codefactor.io/repository/github/letsdoitworld/world-cleanup-day-mobile-app/badge)](https://www.codefactor.io/repository/github/letsdoitworld/world-cleanup-day-mobile-app)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/c41ee20872534ae4997ebfe24793429a)](https://www.codacy.com/app/krishaamer/World-Cleanup-Day-Mobile-App?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=letsdoitworld/World-Cleanup-Day-Mobile-App&amp;utm_campaign=Badge_Grade)
