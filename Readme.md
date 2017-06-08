@@ -1,6 +1,6 @@
 # Let's Do It: World Cleanup Day! ♻️
 
-Over 16M trash heroes have cleaned up more than 500 000 tonnes of trash in 100+ countries! 😃 
+Over 17M trash heroes have cleaned up more than 500 000 tonnes of trash in 100+ countries! 😃 
 
 We are now building a World Cleanup mapping app and platform to scale up the movement and inspire the next 100s of Millions to join the World Cleanup Day on **15th of September 2018**.
 
@@ -15,6 +15,14 @@ Getting rid of trash once and for all will save lives, improve health & reduce c
 " target="_blank"><img src="https://s3.eu-central-1.amazonaws.com/lets-do-it-world/world-cleanup-day-app-video.png" 
 alt="Let's Do It: World Cleanup Day!" width="100%" border="0" /></a>
 
+## Download World Cleanup App
+
+Apple App Store:
+[World Cleanup for iOS](https://itunes.apple.com/us/app/world-cleanup/id1237553057)
+
+Google Play
+[World Cleanup for Android](https://play.google.com/store/apps/details?id=com.teeme.ldi)
+
 ## Find how you can contribute 🔨
 Thank you for considering contributing to World Cleanup Day Mobile App! See the [CONTRIBUTING.md](https://github.com/letsdoitworld/World-Cleanup-Day-Mobile-App/blob/master/CONTRIBUTING.md)
 
@@ -26,7 +34,7 @@ Thank you for considering contributing to World Cleanup Day Mobile App! See the 
 This is a high-level roadmap for the next 6 months. For more details, please <a href="mailto:kristiina@letsdoitworld.org">request access to</a> the World Cleanup Day Asana.
 
 ### Phase 0: Design (April 1st):
-- [ ] Update visual design to reflect World Cleanup Day brand
+- [X] Update visual design to reflect World Cleanup Day brand
 
 ### Phase 1: (May 1st):
 - [ ] User profile. User must authenticate through Facebook account or email address. Email address will be validated upon signing up.
@@ -35,7 +43,7 @@ This is a high-level roadmap for the next 6 months. For more details, please <a 
   - [ ] Area Admin
   - [ ] Volunteer
   - [ ] * Waste management and sanitation operators
-- [ ] Pile CRUD. Details about a pile fields, statuses and CRUD actions
+  - [ ] Pile CRUD. Details about a pile fields, statuses and CRUD actions
   - [ ] Fields
   - [ ] Actions
   - [ ] Status
